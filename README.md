@@ -5,7 +5,8 @@ A voice-controlled virtual AI assistant built using *Gemini AI* and *MERN Stack*
 ---
 
 🎥 Demo
-👉 👉virtual-assistant-1-0dim.onrender.com/
+👉 👉  [click here](virtual-assistant-1-0dim.onrender.com/)
+
 
 ## ✨ Features
 
